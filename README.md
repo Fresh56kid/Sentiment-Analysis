@@ -26,4 +26,4 @@ This project focuses on sentiment analysis using natural language processing (NL
 We welcome contributions! Feel free to open issues and pull requests.
 
 ---
-Feel free to connect with us: (mailto: iwunzemiracle9@gmail.com)
+Feel free to connect with us: (mailto: iwunzemiracle9@gmail.com, abdulqadirlawal405@gmail.com)
